@@ -26,14 +26,16 @@
 
 ## Module 05: Cycle Detection.
 ### Learning Topics: 
-- Detect Cycle in Undirected Graph using BFS.
-- Detect Cycle in Undirected Graph using DFS.
-- Detected cycle in Directed Graph using BFS.
+- Detect Cycle in Undirected Graph using BFS. O(v + e)
+- Detect Cycle in Undirected Graph using DFS. O(v + e)
+- Detected cycle in Directed Graph using BFS. O(v + e)
 
-## Module 05: Dijkstra Algorithm.
+## Module 06: Dijkstra Algorithm.
 ### Learning Topics: 
-- 
-- 
-- 
+- Dijkstra Naive Implementation. O(v * e)
+- Dijkstra Optimized Implementation. O(v + e)
+
+## Module 07: Dijkstra Algorithm.
+### Learning Topics: 
 - 
 - 
