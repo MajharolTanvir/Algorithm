@@ -21,3 +21,19 @@
 - DFS on 2D Grid Implementation.
 - BFS on 2D Grid Implementation.
 - Components.
+
+## Module 04: Assignment.
+
+## Module 05: Cycle Detection.
+### Learning Topics: 
+- Detect Cycle in Undirected Graph using BFS.
+- Detect Cycle in Undirected Graph using DFS.
+- Detected cycle in Directed Graph using BFS.
+
+## Module 05: Dijkstra Algorithm.
+### Learning Topics: 
+- 
+- 
+- 
+- 
+- 
