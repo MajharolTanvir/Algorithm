@@ -1,0 +1,6 @@
+-3 -8 -5 
+2 -3 0 
+-4 -9 -6 
+Cycle detected
+Cycle detected
+Cycle detected

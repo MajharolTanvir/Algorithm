@@ -35,7 +35,16 @@
 - Dijkstra Naive Implementation. O(v * e)
 - Dijkstra Optimized Implementation. O(v + e)
 
-## Module 07: Dijkstra Algorithm.
+## Module 07: Bellman Ford and Floyd Warshall Algorithm.
 ### Learning Topics: 
+- Bellman Ford Algorithm Implementation. O(v * e)
+- Detect Negative Cycle using Bellman Ford.
+- Floyd Warshall Algorithm Implementation.
+
+## Module 08:  Algorithm.
+### Learning Topics:
 - 
 - 
+- 
+
+
