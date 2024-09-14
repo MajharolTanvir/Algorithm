@@ -1,4 +1,17 @@
 # Mission Algorithm
+
+## Short Note:
+- Graph Traversal
+    - DFS
+    - BFS
+- Single source shortest path
+    - BFS - Without weighted graph
+    - Dijkstra - Without negative cycle
+    - Bellman Ford
+- All pair shortest path
+    - Floyd Warshall - When source change multiple time 
+
+
 ## Module 01: Basic of Graph and Representations.
 ### Learning Topics: 
 - Adjacency Matrix With Un-directional Graph. 
