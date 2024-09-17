@@ -54,10 +54,12 @@
 - Detect Negative Cycle using Bellman Ford.
 - Floyd Warshall Algorithm Implementation.
 
-## Module 08:  Algorithm.
-### Learning Topics:
-- 
-- 
-- 
+## Module 08:  Mid-term Exam.
 
+## Module 09: Problem Solving with BFS and DFS .
 
+## Module 10: Disjoint Set Union Or Union Find Algorithm.
+### Learning Topics: 
+- Find Operation Implementation
+- Union and Union By Size.
+- Union By Rank Implementation.
