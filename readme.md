@@ -8,6 +8,7 @@
     - BFS - Without weighted graph
     - Dijkstra - Without negative cycle
     - Bellman Ford
+    - Kruskal's Algorithm - Undirected cycle.
 - All pair shortest path
     - Floyd Warshall - When source change multiple time 
 
@@ -60,6 +61,12 @@
 
 ## Module 10: Disjoint Set Union Or Union Find Algorithm.
 ### Learning Topics: 
-- Find Operation Implementation
+- Find Operation Implementation.
 - Union and Union By Size.
 - Union By Rank Implementation.
+
+## Module 11: DSU Cycle Detection and MST.
+### Learning Topics: 
+- Cycle detection Using DSU implementation.
+- Kruskal's Algorithm for Minimum Spanning Tree (MST).
+- Kruskal's Algorithm for MST Implementation.
