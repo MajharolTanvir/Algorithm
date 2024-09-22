@@ -70,3 +70,5 @@
 - Cycle detection Using DSU implementation.
 - Kruskal's Algorithm for Minimum Spanning Tree (MST).
 - Kruskal's Algorithm for MST Implementation.
+
+## Module 12: Basic Graph and Representations Recap.
