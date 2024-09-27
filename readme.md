@@ -1,13 +1,17 @@
 # Mission Algorithm
 
 ## Short Note:
+- Graph Representation
+    - Adjacency Matrix - Check is Connected with 2 nodes.
+    - Adjacency List - Check How much node connected with a single node.
+    - Edge list - It's use for edge detection. 
 - Graph Traversal
     - DFS
     - BFS
 - Single source shortest path
-    - BFS - Without weighted graph
-    - Dijkstra - Without negative cycle
-    - Bellman Ford
+    - BFS - Without weighted graph.
+    - Dijkstra - Without negative cycle.
+    - Bellman Ford - With negative cycle.
     - Kruskal's Algorithm - Undirected cycle.
 - All pair shortest path
     - Floyd Warshall - When source change multiple time 
