@@ -76,3 +76,13 @@
 - Kruskal's Algorithm for MST Implementation.
 
 ## Module 12: Basic Graph and Representations Recap.
+## Module 13: Problem solving with graph algorithms 1.
+## Module 14: Problem solving with graph algorithms 2.
+## Module 15: Assignment 2.
+
+## Module 16: Dynamic Programming.
+- Factorial of a Number.
+- Fibonacci Series Recursive Solution.
+- Fibonacci Series Repeated Sub-Problems.
+- Memoization on Fibonacci Series.
+- Bottom Up Approach on Fibonacci Series.
