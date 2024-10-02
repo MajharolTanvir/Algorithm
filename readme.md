@@ -81,8 +81,18 @@
 ## Module 15: Assignment 2.
 
 ## Module 16: Dynamic Programming.
+### Learning Topics: 
 - Factorial of a Number.
 - Fibonacci Series Recursive Solution.
 - Fibonacci Series Repeated Sub-Problems.
 - Memoization on Fibonacci Series.
 - Bottom Up Approach on Fibonacci Series.
+
+## Module 17: 0 - 1 Knapsack.
+### Learning Topics: 
+- 0 - 1 Knapsack Recursive Approach. o(n * w)
+- 0 - 1 Knapsack Top Down Approach. o(n * w)
+- 0 - 1 Knapsack Bottom Up Approach. o(n * w)
+
+## Module 18: Knapsack.
+### Learning Topics: 
