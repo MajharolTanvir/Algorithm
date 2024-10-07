@@ -14,7 +14,7 @@
     - Bellman Ford - With negative cycle.
     - Kruskal's Algorithm - Undirected cycle.
 - All pair shortest path
-    - Floyd Warshall - When source change multiple time 
+    - Floyd Warshall - When source change multiple time.
 
 
 ## Module 01: Basic of Graph and Representations.
@@ -94,5 +94,12 @@
 - 0 - 1 Knapsack Top Down Approach. o(n * w)
 - 0 - 1 Knapsack Bottom Up Approach. o(n * w)
 
-## Module 18: Knapsack.
+## Module 18: 0 - 1 Knapsack Variations.
 ### Learning Topics: 
+- Subset Sum Top Down.
+- Subset Sum Bottom Up.
+- Count of Subset Sum.
+- Count Zero in Subset Sum.
+- Equal Sum Partition Using Subset Sum.
+- Minimum Subset Sum with Given Difference.
+- Target Sum.

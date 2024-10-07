@@ -3,7 +3,6 @@ using namespace std;
 
 const int N = 1005;
 
-
 int row, col;
 bool vis[N][N];
 int dis[N][N];
