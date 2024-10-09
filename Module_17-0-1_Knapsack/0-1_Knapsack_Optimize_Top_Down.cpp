@@ -36,7 +36,7 @@ int main()
     {
         cin >> value[i];
     }
-
+ 
     int w;
     cin >> w;
 
