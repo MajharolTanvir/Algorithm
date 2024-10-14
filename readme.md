@@ -103,3 +103,29 @@
 - Equal Sum Partition Using Subset Sum.
 - Minimum Subset Sum with Given Difference.
 - Target Sum.
+
+## Module 19: Final Exam.
+
+## Module 20: Unbounded Knapsack.
+### Learning Topics: 
+- Unbounded Knapsack Implementation.
+- Rod Cutting Problem.
+- Coin change 1.
+- Coin Change 2.
+
+## Module 21: Longest Common Subsequence.
+### Learning Topics: 
+- Substring vs Subsequence.
+- Longest Common Subsequence Approach.
+- LCS Top Down Implementation.
+- LCS Bottom Up Implementation.
+- LCS Table Fill Up.
+- Printing LCS Implementation.
+- Longest Common Substring Bottom Up and Printing.
+
+## Module 22: Marge Sort Recap.
+### Learning Topics: 
+- Merge Two Sorted Array.
+- How Divide work in Merge Sort.
+- Merge Sort Implementation.
+
